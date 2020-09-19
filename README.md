@@ -146,223 +146,222 @@ A cascade network for Detecting COVID-19 using chest x-rays</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(80).pdf" style="text-decoration:none;">PDCOVIDNet: A Parallel-Dilated Convolutional Neural Network Architecture for Detecting COVID-19 from Chest X-Ray Images</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(82).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(81).pdf" style="text-decoration:none;">Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(82).pdf" style="text-decoration:none;">DeepCOVIDExplainer: Explainable COVID-19 Diagnosis Based on Chest X-ray Images</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(83).pdf" style="text-decoration:none;">Aligning Vector-spaces with Noisy Supervised Lexicons</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(84).pdf" style="text-decoration:none;">Train, Sort, Explain: Learning to Diagnose Translation Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(83).pdf" style="text-decoration:none;">Problems of Deploying CNN Transfer Learning to Detect COVID-19 from Chest X-rays</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(84).pdf" style="text-decoration:none;">Artificial intelligence–enabled rapid diagnosis of patients with COVID-19</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(85).pdf" style="text-decoration:none;">Lost in Interpretation:
-Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(86).pdf" style="text-decoration:none;">Learning to Stop in Structured Prediction for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(85).pdf" style="text-decoration:none;">POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS) </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(86).pdf" style="text-decoration:none;">Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with small data</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(87).pdf" style="text-decoration:none;">Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(88).pdf" style="text-decoration:none;">Consistency by Agreement in Zero-shot Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(89).pdf" style="text-decoration:none;">Density Matching for Bilingual Word Embedding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(87).pdf" style="text-decoration:none;">Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(88).pdf" style="text-decoration:none;">Diagnostic performance of CT and its key signs for COVID-19: A systematic review and meta-analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(89).pdf" style="text-decoration:none;">Automatic Detection of Coronavirus Disease (COVID-19) in X-ray and CT Images: A Machine Learning Based Approach</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(90).pdf" style="text-decoration:none;">COVIDLite: A depth-wise separable deep neural network with white balance and CLAHE for detection of COVID-19</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(91).pdf" style="text-decoration:none;">COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(92).pdf" style="text-decoration:none;">Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(93).pdf" style="text-decoration:none;"> robust covid-19-related condition classification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(94).pdf" style="text-decoration:none;">A globally available COVID-19 – Template for clinical imaging studies</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(95).pdf" style="text-decoration:none;">Differentiable Sampling with Flexible ReferenceWord Order for Neural Machine Translation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(95).pdf" style="text-decoration:none;">Early Screening of SARS-CoV-2 by Intelligent Analysis of X-Ray Images</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(96).pdf" style="text-decoration:none;">Revisiting Adversarial Autoencoder for UnsupervisedWord Translation with Cycle Consistency and Improved Training</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(96).pdf" style="text-decoration:none;">Diagnosis and Prediction Model for COVID‐19 Patient's Response to Treatment based on Convolutional Neural Networks and Whale Optimization Algorithm Using CT Images</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(97).pdf" style="text-decoration:none;">An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(97).pdf" style="text-decoration:none;">Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(98).pdf" style="text-decoration:none;">Positional Encoding to Control Output Sequence Length</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(98).pdf" style="text-decoration:none;">Study of Different Deep Learning Approach with Explainable AI for Screening Patients with COVID-19 Symptoms: Using CT Scan and Chest X-ray Image Dataset</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(99).pdf" style="text-decoration:none;">MASS: Masked Sequence to Sequence Pre-training for Language Generation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(99).pdf" style="text-decoration:none;">Chest X-ray classification using Deep learning for automated COVID-19 screening</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(100).pdf" style="text-decoration:none;">Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(100).pdf" style="text-decoration:none;">The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic: A Multinational Consensus Statement from the Fleischner Society</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(101).pdf" style="text-decoration:none;">Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(101).pdf" style="text-decoration:none;">COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(102).pdf" style="text-decoration:none;">Deep Residual Output Layers for Neural Language Generation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(102).pdf" style="text-decoration:none;">Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images using fine-tuned deep neural networks</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(103).pdf" style="text-decoration:none;">Sparse Sequence-to-Sequence Models </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(103).pdf" style="text-decoration:none;"An Uncertainty-aware Transfer Learning-based Framework for Covid-19 Diagnosis </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(104).pdf" style="text-decoration:none;">When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(104).pdf" style="text-decoration:none;">Estimating Uncertainty and Interpretability in Deep Learning for Coronavirus (COVID-19) Detection</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(105).pdf" style="text-decoration:none;">Adaptive Attention Span in Transformers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(105).pdf" style="text-decoration:none;">Can AI help in screening Viral and COVID-19 pneumonia?</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(106).pdf" style="text-decoration:none;">A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(106).pdf" style="text-decoration:none;">Diagnosis of COVID-19 using CT scan images and deep learning techniques</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(107).pdf" style="text-decoration:none;">Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(108).pdf" style="text-decoration:none;">CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(109).pdf" style="text-decoration:none;">Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(110).pdf" style="text-decoration:none;">Soft Contextual Data Augmentation for Neural Machine Translation</a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(111).pdf" style="text-decoration:none;">On Measuring Gender Bias in Translation of Gender-neutral Pronouns</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(107).pdf" style="text-decoration:none;">SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(112).pdf" style="text-decoration:none;">Revisiting Low-Resource Neural Machine Translation: A Case Study</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(108).pdf" style="text-decoration:none;">A Fully Automatic Deep Learning System for COVID-19 Diagnostic and Prognostic Analysis</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(113).pdf" style="text-decoration:none;">Domain Adaptation of Neural Machine Translation by Lexicon Induction</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(109).pdf" style="text-decoration:none;">Quantitative computed tomography analysis for stratifying the severity of Coronavirus Disease 2019</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(114).pdf" style="text-decoration:none;">Domain Adaptive Inference for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(115).pdf" style="text-decoration:none;">Fluent Translations from Disfluent Speech in End-to-End Speech Translation</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(110).pdf" style="text-decoration:none;">An automatic COVID-19 CT segmentation network using spatial and channel attention mechanism</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(116).pdf" style="text-decoration:none;">Evaluating Gender Bias in Machine Translation</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(117).pdf" style="text-decoration:none;">Assessing the Ability of Self-Attention Networks to Learn Word Order</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(118).pdf" style="text-decoration:none;">Transcoding compositionally: using attention to find more generalizable solutions</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(119).pdf" style="text-decoration:none;">Exploiting Sentential Context for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(111).pdf" style="text-decoration:none;">Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(120).pdf" style="text-decoration:none;">Lattice-Based Transformer Encoder for Neural Machine Translation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(121).pdf" style="text-decoration:none;">Self-Attentional Models for Lattice Inputs</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(112).pdf" style="text-decoration:none;">Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(113).pdf" style="text-decoration:none;">Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(122).pdf" style="text-decoration:none;">Are Girls Neko or Shojo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(114).pdf" style="text-decoration:none;">Serial Quantitative Chest CT Assessment of COVID-19: Deep-Learning Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(115).pdf" style="text-decoration:none;">JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(116).pdf" style="text-decoration:none;">COV-ELM classifier: An Extreme Learning Machine based identification of COVID-19 using Chest X-Ray Images</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(117).pdf" style="text-decoration:none;">Chest CT manifestations of new coronavirus disease 2019 (COVID-19): a pictorial review</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(118).pdf" style="text-decoration:none;">Label-Free Segmentation of COVID-19 Lesions in Lung CT</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(119).pdf" style="text-decoration:none;">Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(120).pdf" style="text-decoration:none;">CT image visual quantitative evaluation and clinical classification of coronavirus disease (COVID-19)</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(121).pdf" style="text-decoration:none;">UMLS-ChestNet: A deep convolutional neural network for radiological findings, differential diagnoses and localizations of COVID-19 in chest x-rays</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(122).pdf" style="text-decoration:none;">MiniSeg: An Extremely Minimum Network for Efficient COVID-19 Segmentation </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(123).pdf" style="text-decoration:none;">Learning Deep Transformer Models for Machine Translation</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(123).pdf" style="text-decoration:none;">COVIDGR dataset and COVID-SDNet methodology for predicting COVID-19 based on Chest X-Ray images</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(124).pdf" style="text-decoration:none;">A Resource-Free Evaluation Metric for Cross-LingualWord Embeddings Based on Graph Modularity</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(124).pdf" style="text-decoration:none;">A deep learning algorithm using CT images to screen for Corona Virus 1 Disease (COVID-19)</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(125).pdf" style="text-decoration:none;">Robust Neural Machine Translation with Doubly Adversarial Inputs</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(125).pdf" style="text-decoration:none;">On the Role of Artificial Intelligence in Medical Imaging of COVID-19</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(126).pdf" style="text-decoration:none;">Syntactically Supervised Transformers for Faster Neural Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(126).pdf" style="text-decoration:none;">COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(127).pdf" style="text-decoration:none;">Shared-Private Bilingual Word Embeddings for Neural Machine Translation</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(127).pdf" style="text-decoration:none;">COVID-19 detection from chest X-Ray images using Deep Learning and Convolutional Neural Networks</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(128).pdf" style="text-decoration:none;">Generalized Data Augmentation for Low-Resource Translation</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(128).pdf" style="text-decoration:none;">AI based Chest X-Ray (CXR) Scan Texture Analysis Algorithm for Digital Test of COVID-19 Patients</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(129).pdf" style="text-decoration:none;">Analyzing the Structure of Attention in a Transformer Language Model</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(129).pdf" style="text-decoration:none;">Deep learning-based model for detecting 2019 novel coronavirus pneumonia on  high-resolution computed tomography: a prospective study</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(130).pdf" style="text-decoration:none;">Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(130).pdf" style="text-decoration:none;">Lung Infection Quantification of COVID 19 in CT Images with Deep Learning</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(131).pdf" style="text-decoration:none;">Monotonic Infinite Lookback Attention for Simultaneous Machine Translation </a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(131).pdf" style="text-decoration:none;">Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(132).pdf" style="text-decoration:none;">Analyzing the Limitations of Cross-lingual Word Embedding Mappings</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(132).pdf" style="text-decoration:none;">An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(133).pdf" style="text-decoration:none;">Lattice Transformer for Speech Translation</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(133).pdf" style="text-decoration:none;">AI-assisted CT imaging analysis for COVID-19 screening: Building and deploying a medical AI system in four weeks</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(134).pdf" style="text-decoration:none;">Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(134).pdf" style="text-decoration:none;">Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(135).pdf" style="text-decoration:none;">A Multiscale Visualization of Attention in the Transformer Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(135).pdf" style="text-decoration:none;">Deep learning to estimate the physical proportion of infected region of lung for COVID-19 pneumonia with CT image set</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(136).pdf" style="text-decoration:none;">A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(137).pdf" style="text-decoration:none;">Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(138).pdf" style="text-decoration:none;">Measuring Bias in Contextualized Word Representations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(139).pdf" style="text-decoration:none;">Distilling Translations with Visual Awareness</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(140).pdf" style="text-decoration:none;">XLNet: Generalized Autoregressive Pretraining for Language Understanding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(136).pdf" style="text-decoration:none;">Comparative performance analysis of the ResNet backbones of Mask RCNN to segment the signs of COVID-19 in chest CT scans</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(137).pdf" style="text-decoration:none;">Automatic analysis system of COVID-19 radiographic lung images (XrayCoviDetector)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(138).pdf" style="text-decoration:none;">Coronavirus Detection and Analysis on Chest CT with Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(139).pdf" style="text-decoration:none;">Does Non-COVID19 Lung Lesion Help? Investigating Transferability in COVID-19 CT Image Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(140).pdf" style="text-decoration:none;">Machine Learning Automatically Detects COVID-19 using Chest CTs in a Large</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(141).pdf" style="text-decoration:none;"> Demonstration of a Neural Machine Translation System with Online Learning for Translators</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(142).pdf" style="text-decoration:none;">Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(143).pdf" style="text-decoration:none;">From Bilingual to Multilingual Neural Machine Translation by Incremental Training</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(144).pdf" style="text-decoration:none;">Depth Growing for Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(145).pdf" style="text-decoration:none;">Learning Neural Sequence-to-Sequence Models from Weak Feedback with Bipolar Ramp Loss</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(146).pdf" style="text-decoration:none;">Self-Regulated Interactive Sequence-to-Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(141).pdf" style="text-decoration:none;"> Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(142).pdf" style="text-decoration:none;">Automatic Detection of COVID-19 Cases on X-ray images Using Convolutional Neural Networks</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(143).pdf" style="text-decoration:none;">Artificial Intelligence Augmentation of Radiologist Performance in Distinguishing COVID-19 from Pneumonia of Other Origin at Chest CT</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(144).pdf" style="text-decoration:none;">Stacked Convolutional Neural Network for Diagnosis of COVID-19 Disease from X-ray Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(145).pdf" style="text-decoration:none;">An Efficient Mixture of Deep and Machine Learning Models for COVID-19 and Tuberculosis Detection Using X-Ray Images in Resource Limited Settings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(146).pdf" style="text-decoration:none;">CovidCTNet: An Open-Source Deep Learning Approach to Identify Covid-19 Using CT Image</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(147).pdf" style="text-decoration:none;">Attention is not not Explanation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(147).pdf" style="text-decoration:none;">Determination of Robust Regional CT Radiomics Features for COVID-19</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(148).pdf" style="text-decoration:none;">On The Evaluation of Machine Translation Systems Trained With Back-Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(148).pdf" style="text-decoration:none;">Automated Quantification of CT Patterns Associated with COVID-19 from Chest CT</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(149).pdf" style="text-decoration:none;">Towards Making the Most of BERT in Neural Machine Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(149).pdf" style="text-decoration:none;">Adaptive Feature Selection Guided Deep Forest for COVID-19 Classification with Chest CT</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(150).pdf" style="text-decoration:none;">Simple and Effective Noisy Channel Modeling for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(150).pdf" style="text-decoration:none;">Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection and Patient Monitoring using Deep Learning CT Image Analysis</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(151).pdf" style="text-decoration:none;">Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference Using a Delta Posterior </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(151).pdf" style="text-decoration:none;">Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(152).pdf" style="text-decoration:none;">Multilingual Neural Machine Translation with Language Clustering</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(153).pdf" style="text-decoration:none;">On NMT Search Errors and Model Errors: Cat Got Your Tongue?</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(154).pdf" style="text-decoration:none;">Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(152).pdf" style="text-decoration:none;">Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(153).pdf" style="text-decoration:none;">Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(154).pdf" style="text-decoration:none;">Firefly-Algorithm Supported Scheme to Detect COVID-19 Lesion in Lung CT Scan Images using Shannon Entropy and Markov-Random-Field</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(155).pdf" style="text-decoration:none;">Learning a Multi-Domain Curriculum for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(155).pdf" style="text-decoration:none;">Training deep learning algorithms with weakly labeled pneumonia chest X‐ray data for COVID‐19 detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(156).pdf" style="text-decoration:none;">Regularized Context Gates on Transformer for Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(157).pdf" style="text-decoration:none;">Encoders Help You Disambiguate Word Senses in Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(158).pdf" style="text-decoration:none;">Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(156).pdf" style="text-decoration:none;">Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(157).pdf" style="text-decoration:none;">A Light CNN for detecting COVID-19 from CT scans of the chest</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(158).pdf" style="text-decoration:none;">Predicting COVID-19 Pneumonia Severity on Chest X-ray with Deep Learning</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(159).pdf" style="text-decoration:none;">Latent Part-of-Speech Sequences for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(159).pdf" style="text-decoration:none;">Pulmonary Thromboembolic Disease in Patients with COVID-19 Undergoing Computed Tomography Pulmonary Angiography (CTPA): Incidence and Relationship with Pulmonary Parenchymal Abnormalities</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(160).pdf" style="text-decoration:none;">Adaptively Sparse Transformers</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(160).pdf" style="text-decoration:none;">Iteratively Pruned Deep Learning Ensembles for COVID-19 Detection in Chest X-rays</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(161).pdf" style="text-decoration:none;">Handling Syntactic Divergence in Low-resource Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(161).pdf" style="text-decoration:none;">Machine learning for COVID-19 detection and prognostication using chest radiographs and CT scans: a systematic methodological review</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(162).pdf" style="text-decoration:none;">Evaluating Pronominal Anaphora in Machine Translation: An Evaluation Measure and a Test Suite</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(163).pdf" style="text-decoration:none;">Improving Back-Translation with Uncertainty-based Confidence Estimation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(162).pdf" style="text-decoration:none;">Severity Assessment of Coronavirus Disease 2019 (COVID-19) Using Quantitative Features from Chest CT Images</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(163).pdf" style="text-decoration:none;">Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(164).pdf" style="text-decoration:none;">Towards Understanding Neural Machine Translation with Word Importance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(164).pdf" style="text-decoration:none;">COVID-CAPS: A Capsule Network-based Framework for Identification of COVID-19 cases from X-ray Images</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(165).pdf" style="text-decoration:none;">Self-Attention with Structural Position Representations</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(165).pdf" style="text-decoration:none;">A Comparative Study of Target Reconstruction of Ultra-High-Resolution CT for Patients with Corona-Virus Disease 2019 (COVID-19)</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(166).pdf" style="text-decoration:none;">Evaluating the Cross-Lingual Effectiveness of Massively Multilingual Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(166).pdf" style="text-decoration:none;">Deep learning models for COVID-19 infected area segmentation in CT images</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(167).pdf" style="text-decoration:none;">A Discriminative Neural Model for Cross-LingualWord Alignment</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(167).pdf" style="text-decoration:none;">Performance and Robustness of Machine Learning-based Radiomic COVID-19 Severity Prediction</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(168).pdf" style="text-decoration:none;">Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(169).pdf" style="text-decoration:none;">Deep Equilibrium Models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(170).pdf" style="text-decoration:none;">The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(171).pdf" style="text-decoration:none;">Context-Aware Monolingual Repair for Neural Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(172).pdf" style="text-decoration:none;">Simpler and Faster Learning of Adaptive Policies for Simultaneous Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(173).pdf" style="text-decoration:none;">Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(168).pdf" style="text-decoration:none;">Hypergraph Learning for Identification of COVID-19 with CT Imaging</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(169).pdf" style="text-decoration:none;">COVIDX-Net: A Framework of Deep Learning Classifiers to Diagnose COVID-19 in X-Ray Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(170).pdf" style="text-decoration:none;">Artificial Intelligence against COVID-19: An Early Review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(171).pdf" style="text-decoration:none;">Towards Efficient COVID-19 CT Annotation: A Benchmark for Lung and Infection Segmentation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(172).pdf" style="text-decoration:none;">Coronavirus (COVID-19) Classification using Deep Features Fusion and Ranking Technique</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(173).pdf" style="text-decoration:none;">Automated detection and quantification of COVID-19 airspace disease on chest radiographs: A novel approach achieving radiologist-level performance using a CNN trained on digital reconstructed radiographs (DRRs) from CT-based ground-truth</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(174).pdf" style="text-decoration:none;">Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(175).pdf" style="text-decoration:none;">Jointly Learning to Align and Translate with Transformer Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(176).pdf" style="text-decoration:none;">Investigating Multilingual NMT Representations at Scale</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(174).pdf" style="text-decoration:none;">COVID_MTNet: COVID-19 Detection with Multi-Task Deep Learning Approaches</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(175).pdf" style="text-decoration:none;">A Deep Convolutional Neural Network for COVID-19 Detection Using Chest X-Rays</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(176).pdf" style="text-decoration:none;">Classification of COVID-19 from Chest X-ray images using Deep Convolutional Neural Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(177).pdf" style="text-decoration:none;">Multi-Granularity Self-Attention for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(177).pdf" style="text-decoration:none;">Automatic X-ray COVID-19 Lung Image Classification System based on Multi-Level Thresholding and Support Vector Machine</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(178).pdf" style="text-decoration:none;">FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(179).pdf" style="text-decoration:none;">Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(178).pdf" style="text-decoration:none;">Automated Detection of COVID-19 from CT Scans Using Convolutional Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(179).pdf" style="text-decoration:none;">Digital technology and COVID-19</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(180).pdf" style="text-decoration:none;">Enhancing Machine Translation with Dependency-Aware Self-Attention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(180).pdf" style="text-decoration:none;">A Combined Deep CNN-LSTM Network for the Detection of Novel Coronavirus (COVID-19) Us-ing X-ray Images</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(181).pdf" style="text-decoration:none;">Neural Machine Translation with Byte-Level Subwords</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(182).pdf" style="text-decoration:none;">Speculative Beam Search for Simultaneous Translation </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(183).pdf" style="text-decoration:none;">Lost in Evaluation:
-Misleading Benchmarks for Bilingual Dictionary Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(181).pdf" style="text-decoration:none;">Artificial intelligence-enabled rapid diagnosis of COVID-19 patients</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(182).pdf" style="text-decoration:none;">Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(183).pdf" style="text-decoration:none;">Detection of Coronavirus (COVID-19) Associated Pneumonia based on Generative Adversarial Networks and a Fine-Tuned Deep Transfer Learning Model using Chest X-ray Dataset</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(184).pdf" style="text-decoration:none;">Tree Transformer: Integrating Tree Structures into Self-Attention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(184).pdf" style="text-decoration:none;">Frequency and Distribution of Chest Radiographic Findings in Patients Positive for COVID-19</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(185).pdf" style="text-decoration:none;">Hint-Based Training for Non-Autoregressive Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(185).pdf" style="text-decoration:none;">Classification of Coronavirus Images using Shrunken Features</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(186).pdf" style="text-decoration:none;">Simple, Scalable Adaptation for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(186).pdf" style="text-decoration:none;">Deep learning Enables Accurate Diagnosis of Novel Coronavirus</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(187).pdf" style="text-decoration:none;">Pivot-based Transfer Learning for Neural Machine Translation between Non-English Languages</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(187).pdf" style="text-decoration:none;">Diagnosing COVID-19 Pneumonia from X-Ray and CT Images using Deep Learning and Transfer Learning Algorithms</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(188).pdf" style="text-decoration:none;">Better Document-Level Machine Translation with Bayes' Rule</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(188).pdf" style="text-decoration:none;">Automated Chest CT Image Segmentation of COVID-19 Lung Infection based on 3D U-Net</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(189).pdf" style="text-decoration:none;">Compositional Generalization for Primitive Substitutions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(190).pdf" style="text-decoration:none;">Fast Structured Decoding for Sequence Models </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(189).pdf" style="text-decoration:none;">Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(190).pdf" style="text-decoration:none;">Chest X-ray image analysis and classification for COVID-19 pneumonia detection using Deep CNN</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(191).pdf" style="text-decoration:none;">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(191).pdf" style="text-decoration:none;">COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(192).pdf" style="text-decoration:none;">Lipschitz Constrained Parameter Initialization for Deep Transformers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(192).pdf" style="text-decoration:none;">Correcting Data Imbalance for Semi-Supervised Covid-19 Detection Using X-ray Chest Images</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(193).pdf" style="text-decoration:none;">A Reinforced Generation of Adversarial Examples for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(193).pdf" style="text-decoration:none;">Machine learning and AI aided tool to differentiate COVID 19 and non-COVID 19 lung CXR</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(194).pdf" style="text-decoration:none;">Translationese as a Language in "Multilingual" NMT </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(194).pdf" style="text-decoration:none;">A British Society of Thoracic Imaging statement: considerations in designing local imaging diagnostic algorithms for the COVID-19 pandemic </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(195).pdf" style="text-decoration:none;">Improving Transformer Models by Reordering their Sublayers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(195).pdf" style="text-decoration:none;">COVIDNet-S: Towards computer-aided severity assessment via training and validation of deep neural networks for geographic extent and opacity extent scoring of chest X-rays for SARS-CoV-2 lung disease severity</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(196).pdf" style="text-decoration:none;">Controlling Neural Machine Translation Formality with Synthetic Supervision</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(196).pdf" style="text-decoration:none;">Multi
+Channel Transfer Learning of Chest X ray Images for Screening of COVID 19</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(197).pdf" style="text-decoration:none;">Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(197).pdf" style="text-decoration:none;">Efficient Deep Network Architecture for COVID-19 Detection Using Computed Tomography Images</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(198).pdf" style="text-decoration:none;">Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(198).pdf" style="text-decoration:none;">COVID-DA: Deep Domain Adaptation from Typical Pneumonia to COVID-19</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(199).pdf" style="text-decoration:none;">Generating Diverse Translation by Manipulating Multi-Head Attention</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(199).pdf" style="text-decoration:none;">Severe COVID-19 Pneumonia: Assessing Inflammation Burden with Volume-rendered Chest CT</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(200).pdf" style="text-decoration:none;">Neuron Interaction Based Representation Composition for Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(200).pdf" style="text-decoration:none;">Artificial intelligence applied on chest X-ray can aid in the diagnosis of COVID-19 infection: a first experience from Lombardy, Italy</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(201).pdf" style="text-decoration:none;">Modeling Fluency and Faithfulness for Diverse Neural Machine Translation </a></li> 
   
