@@ -20,7 +20,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(10).pdf" style="text-decoration:none;">COVID-19 in CXR: from Detection and Severity Scoring to Patient Disease Monitoring</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(11).pdf" style="text-decoration:none;">A collaborative online AI engine for CT-based COVID-19 diagnosis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(12).pdf" style="text-decoration:none;">4S-DT: Self Supervised Super Sample Decomposition for Transfer learning with application to COVID-19 detection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(13).pdf" style="text-decoration:none;">Artificial intelligence vs COVID‑19: limitations, constraints and pitfalls</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(14).pdf" style="text-decoration:none;">Fully automatic deep convolutional approaches for the analysis of Covid-19 using chest X-ray images</a></li>
                               
@@ -106,7 +106,7 @@ A cascade network for Detecting COVID-19 using chest x-rays</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(61).pdf" style="text-decoration:none;"> Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(62).pdf" style="text-decoration:none;">Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(62).pdf" style="text-decoration:none;">Artificial Intelligence in the Battle against Coronavirus (COVID-19): A Survey and Future Research Directions</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/COVID-19-Imaging-based-AI-Research-Papers/blob/master/covid(63).pdf" style="text-decoration:none;">COVID-19 identification in chest X-ray images on flat and hierarchical classification scenarios</a></li>                              
 
